@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing lol
 - 📫 How to reach me in GitHub
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like soccet
+- ⚡ Fun fact: i like soccer
 
 <!---
 w3bray/w3bray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

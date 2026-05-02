@@ -1,21 +1,18 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" alt="banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=35&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=W+3+B+R+A+Y;FEAR+THE+OLD+BLOOD" alt="banner w3bray" />
+
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=22&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Security+Researcher;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG" />
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG" />
-
-  <br><br>
-
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/w3bray">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://SEU_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c" alt="Portfolio" />
   </a>
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=ladymnria&style=flat-square&color=c9a84c&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=w3bray&style=flat-square&color=c9a84c&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
@@ -24,44 +21,45 @@
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
-Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
-
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
+Desenvolvedor focado em sistemas de baixo nível, automação e arquitetura full-stack, sempre buscando aprimorar o domínio sobre a "caçada" tecnológica.
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character" width="180" />
+  <img src="https://i.pinimg.com/originals/2c/5c/e5/2c5ce5c5fc47ab0cdc15e70ae92909ff.png" alt="w3bray character" width="220" />
 </div>
 
 <br>
 
 <div align="center">
-  <code>◈ Class → Full-Stack Developer</code><br>
+  <code>◈ Class → Hunter / Developer</code><br>
   <code>◈ Origin → Brazil 🇧🇷</code><br>
-  <code>◈ Covenant → Open Source</code><br>
-  <code>◈ Build → INT / DEX</code><br>
-  <code>◈ Status → Hunter. Refuses to go hollow.</code>
+  <code>◈ Build → INT / DEX / ARC</code><br>
+  <code>◈ Status → Active. Refuses to go hollow.</code>
 </div>
 
 ---
 
-## ⚙️ Technologies
+## ⚙️ Technologies & Languages
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=c9a84c" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=c9a84c" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=c%2B%2B&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/Assembly_(x86--64)-111?style=for-the-badge&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/Lua-111?style=for-the-badge&logo=lua&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=c9a84c" />
   <br>
-  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c" alt="GitHub" />
-  <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c" alt="AWS" />
-  <img src="https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/Ruby-111?style=for-the-badge&logo=ruby&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/BDSSCRIPT-111?style=for-the-badge&logoColor=c9a84c" />
 </div>
 
 ---
@@ -69,45 +67,21 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 ## 📊 Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ladymnria&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=w3bray&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ladymnria&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladymnria&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=w3bray&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true" />
 </div>
 
 ---
 
-## 📜 Contribution Graph
+## 📜 Activity Graph
 
 <div align="center">
-  <a href="https://github.com/ladymnria">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ladymnria&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c" alt="Activity Graph" />
-  </a>
-</div>
-
----
-
-## 🕯️ Bonfires Lit — Education
-
-| 🏆 | Course | Status |
-| :---: | :--- | :---: |
-| ◈ | SEU CURSO 1 | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | ✅ Complete |
-| ◈ | SEU CURSO 4 | ✅ Complete |
-
----
-
-## 🗡️ Featured Projects
-
-<div align="center">
-  <a href="https://github.com/ladymnria/SEU_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ladymnria&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c" alt="Featured Repo" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=w3bray&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c" />
 </div>
 
 ---
 
 <div align="center">
-  <i>*† Seek Paleblood to transcend the Hunt †*</i>
+  <i>*† May you find your worth in the waking world †*</i>
 </div>

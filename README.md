@@ -73,6 +73,7 @@ I do not just write code — I break it, dissect it, and weaponize its flaws.
   <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=c9a84c" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=c9a84c" alt="CSS" />
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=c9a84c" alt="SQL" />
+  <img src="https://img.shields.io/badge/BDSSCRIPT-000?style=for-the-badge&logo=kalilinux&logoColor=c9a84c" alt="BDSSCRIPT" />
 
 </div>
 
@@ -82,7 +83,7 @@ I do not just write code — I break it, dissect it, and weaponize its flaws.
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=w3bray&theme=dark&ring=c9a84c&fire=c9a84c&background=0d0d0d&border=2a2a2a" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=w3bray&theme=dark&ring=c9a84c&fire=c9a84c&background=0d0d0d&border=2a2a2a&v=20260502" alt="GitHub streak stats" />
   
 </div>
 

@@ -50,42 +50,45 @@ Fluent in the ancient, low-level languages that govern the machine's soul, I man
 
 ---
 
-## Arsenal & Weaponry
+## Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=cplusplus&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/Assembly_(x86--64)-111?style=for-the-badge&logo=gnu&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/Lua-111?style=for-the-badge&logo=lua&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/Assembly_(x86--64)-000000?style=for-the-badge&logo=gnu&logoColor=c9a84c" />
   <br>
-  <img src="https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/Ruby-111?style=for-the-badge&logo=ruby&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/BDSSCRIPT-111?style=for-the-badge&logo=kalilinux&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=c9a84c" />
+  <br>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=c9a84c" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/BDSSCRIPT-000000?style=for-the-badge&logo=kalilinux&logoColor=c9a84c" />
 </div>
 
 ---
 
-## Operational Statistics
+## Statistics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=w3bray&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=w3bray&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bray&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=w3bray&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&cache_seconds=86400" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bray&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&cache_seconds=86400" />
 </div>
 
 ---
 
-## 📜 Network Activity Graph
+## 📜 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=w3bray&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c" />
@@ -105,7 +108,7 @@ Fluent in the ancient, low-level languages that govern the machine's soul, I man
 
 ---
 
-## 🗡️ High-Value Targets Compromised (Featured Projects)
+## 🗡️ Featured Projects
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=w3bray&repo=SEU_REPO_RED_TEAM&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c" />

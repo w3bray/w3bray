@@ -83,7 +83,7 @@ I do not just write code — I break it, dissect it, and weaponize its flaws.
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=w3bray&theme=dark&ring=c9a84c&fire=c9a84c&background=0d0d0d&border=2a2a2a&v=20260502" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=w3bray&theme=dark&ring=c9a84c&fire=c9a84c&background=0d0d0d&border=2a2a2a&dates=0d0d0d&sideLabels=c9a84c&v=20260502" alt="GitHub streak stats" />
   
 </div>
 

@@ -103,9 +103,8 @@ I do not just write code — I break it, dissect it, and weaponize its flaws.
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=w3bray&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&bg_color=0d0d0d" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bray&layout=compact&theme=dark&title_color=c9a84c&bg_color=0d0d0d" alt="Top languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bray&layout=compact&theme=dark&title_color=c9a84c&bg_color=0d0d0d&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bray&layout=compact&theme=dark&title_color=c9a84c&bg_color=0d0d0d&cache_seconds=86400" />
 </div>
 
 ---

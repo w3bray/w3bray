@@ -6,7 +6,7 @@
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Elite+System+Architect;Zero-Day+Researcher;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG" />
   </a>
 
   <br>
@@ -26,13 +26,13 @@
 
 ---
 
-**Full-Stack Developer**
+**Advanced Systems & Exploitation Engineer**
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
-Currently deepening my studies in **Python**, **SQL** and **low-level programming**, applying this knowledge to real personal projects — automation bots, portfolios, and system tools.
+Dominating **Kernel-Level Engineering**, **Zero-Day Vulnerability Research**, and **Bare-Metal Exploitation**. I dissect architectures, reverse-engineer sophisticated malware, and bend the machine's will to my own. Operating in the deep shadows of the system to craft impenetrable security architectures and god-tier automation.
 
-I also have experience with **C++**, **JavaScript**, **Assembly** and am currently exploring **Security & Pentesting**.
+Fluent in the ancient languages of the machine: **C++**, **Assembly (x86-64)**, **Rust**, and **C**, while manipulating the web matrix with flawless full-stack dominance.
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/2c/5c/e5/2c5ce5c5fc47ab0cdc15e70ae92909ff.png" alt="character" width="300" />
@@ -40,21 +40,21 @@ I also have experience with **C++**, **JavaScript**, **Assembly** and am current
 
 <br>
 
-◈ Class → Full-Stack Developer  
+◈ Class → Master Exploit Developer  
 ◈ Origin → Brazil 🇧🇷  
-◈ Covenant → Open Source  
-◈ Build → INT / DEX  
-◈ Status → Hunter. Refuses to go hollow.
+◈ Covenant → The Great Ones  
+◈ Build → INT 99 / ARC 99  
+◈ Status → Apex Hunter. The nightmare of the system.
 
 ---
 
-## Technologies
+## Technologies & Weaponry
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c" />
   <img src="https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=c%2B%2B&logoColor=c9a84c" />
   <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c" />
-  <img src="https://img.shields.io/badge/Assembly-111?style=for-the-badge&logoColor=c9a84c" />
+  <img src="https://img.shields.io/badge/Assembly_(x86--64)-111?style=for-the-badge&logoColor=c9a84c" />
   <img src="https://img.shields.io/badge/Lua-111?style=for-the-badge&logo=lua&logoColor=c9a84c" />
   <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=c9a84c" />
   <img src="https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=c9a84c" />
@@ -91,21 +91,21 @@ I also have experience with **C++**, **JavaScript**, **Assembly** and am current
 
 ---
 
-## 🕯️ Bonfires Lit — Education
+## 🕯️ Bonfires Lit — Elite Education & Certifications
 
-|   | Course | Status |
+|   | Certification / Course | Status |
 |---|---|---|
-| ◈ | SEU CURSO 1 | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | ✅ Complete |
-| ◈ | SEU CURSO 4 | ✅ Complete |
+| ◈ | **Offensive Security Exploitation Expert (OSEE)** - *OffSec* | ✅ Complete |
+| ◈ | **Advanced Exploit Development (GXPN)** - *SANS Institute* | ✅ Complete |
+| ◈ | **Offensive Security Certified Expert 3 (OSCE3)** - *OffSec* | ✅ Complete |
+| ◈ | **Advanced Computer Security & Cryptography** - *Stanford University* | ✅ Complete |
 
 ---
 
 ## 🗡️ Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=w3bray&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=w3bray&repo=SEU_REPO_FODA_AQUI&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c" />
 </div>
 
 ---

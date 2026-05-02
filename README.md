@@ -100,11 +100,6 @@ I do not just write code — I break it, dissect it, and weaponize its flaws.
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=w3bray&theme=dark&ring=c9a84c&fire=c9a84c&background=0d0d0d&border=2a2a2a" alt="GitHub streak stats" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=w3bray&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&bg_color=0d0d0d" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=w3bray&layout=compact&theme=dark&title_color=c9a84c&bg_color=0d0d0d" />
   
 </div>
 

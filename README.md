@@ -11,23 +11,6 @@
     alt="Typing SVG"
   />
 
-  <br><br>
-
-  <a href="https://linkedin.com/in/w3bray" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://w3bray.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=torproject&logoColor=c9a84c" alt="Portfolio" />
-  </a>
-
-  <br><br>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=w3bray&style=flat-square&color=c9a84c&label=SYSTEM+INTRUSIONS"
-    alt="Profile views"
-  />
-
 </div>
 
 ---

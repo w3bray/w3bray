@@ -109,7 +109,11 @@ Não escrevo apenas código — eu disseco-o, analiso as suas entranhas e transf
 
 ## ⚡ Featured Project: Raystorm
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=w3bray&repo=raystorm&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/w3bray/raystorm)
+<div align="center">
+  <a href="https://github.com/w3bray/raystorm" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=w3bray&repo=raystorm&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c&cache_seconds=86400" alt="Raystorm Repository" />
+  </a>
+</div>
 
 ---
 

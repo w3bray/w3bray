@@ -19,14 +19,14 @@
 
 > *"In the deep shadows of the machine, where reality is written in binary — fear the old code."*
 
-Operating at the edge of cybersecurity and systems architecture.
+A operar no limite da cibersegurança e da arquitetura de sistemas. Especialista em quebrar o inquebrável.
 
 - **Kernel / Ring 0 Engineering**
 - **Bare-Metal Exploitation**
 - **APT Simulation**
 - **Reverse Engineering**
 
-I do not just write code — I break it, dissect it, and weaponize its flaws.
+Não escrevo apenas código — eu disseco-o, analiso as suas entranhas e transformo as suas falhas em armas de precisão.
 
 ---
 
@@ -107,9 +107,9 @@ I do not just write code — I break it, dissect it, and weaponize its flaws.
 
 ---
 
-## ⚡ Featured Project
+## ⚡ Featured Project: Raystorm
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=w3bray&repo=SEU_REPO_AQUI&theme=dark&title_color=c9a84c&bg_color=0d0d0d" alt="Featured project" />
+[![](https://github-readme-stats.vercel.app/api/pin/?username=w3bray&repo=raystorm&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/w3bray/raystorm)
 
 ---
 

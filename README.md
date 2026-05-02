@@ -78,21 +78,16 @@ Fluent in the ancient, low-level languages that govern the machine's soul, I man
 
 ## Statistics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=w3bray&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=w3bray&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&cache_seconds=86400" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bray&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&cache_seconds=86400" />
-</div>
+[![streak](https://streak-stats.demolab.com?user=w3bray&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c)](https://streak-stats.demolab.com)
+
+[![](https://github-readme-stats.vercel.app/api?username=w3bray&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true)](https://github.com/w3bray)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=w3bray&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a)](https://github.com/w3bray)
 
 ---
 
 ## 📜 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=w3bray&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c" />
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=w3bray&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/w3bray)
 
 ---
 
@@ -110,9 +105,7 @@ Fluent in the ancient, low-level languages that govern the machine's soul, I man
 
 ## 🗡️ Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=w3bray&repo=SEU_REPO_RED_TEAM&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c" />
-</div>
+[![Featured Repo](https://github-readme-stats.vercel.app/api/pin/?username=w3bray&repo=NOME_DO_SEU_REPOSITORIO_AQUI&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/w3bray)
 
 ---
 

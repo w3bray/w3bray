@@ -6,7 +6,13 @@
     <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" alt="Banner" width="100%" />
   </a>
 
-  <br><br>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=911515&height=140&section=header&text=w3bray&fontColor=e0e0e0&fontSize=70&fontAlignY=38&desc=parasite%20in%20the%20kernel&descAlignY=62&descColor=911515&animation=fadeIn" alt="header" width="100%" />
+</div>
+
+<div align="center">
 
   <img
     src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=911515&center=true&vCenter=true&width=800&lines=Advanced+Threat+Actor+%7C+Red+Team;Zero-Day+Exploitation+%26+Reverse+Engineering;Parasitic+processes+and+system+decay.;There+is+no+way+out+of+the+sandbox.;We+operate+where+the+EDR+is+blind."
@@ -16,6 +22,10 @@
   <br>
 
   <img src="https://komarev.com/ghpvc/?username=w3bray&label=SIGNALS+INTERCEPTED&color=911515&style=for-the-badge" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-QUARANTINED-911515?style=for-the-badge&labelColor=0d0d0d" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RING-0-911515?style=for-the-badge&labelColor=0d0d0d" alt="Ring 0" />
 
 </div>
 
@@ -25,19 +35,27 @@
 
 > *"Some processes are meant to be isolated. Others consume the host. I write the latter."*
 
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=911515&height=2&width=100%25&section=header" alt="divider" />
+
 </div>
 
-<!-- ═══════════════════════════ AVATAR ═══════════════════════════ -->
+<!-- ═══════════════════════════ BOOT ═════════════════════════════ -->
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2c/5c/e5/2c5ce5c5fc47ab0cdc15e70ae92909ff.png" width="260" alt="Character image" />
+  <img src="https://i.pinimg.com/originals/2c/5c/e5/2c5ce5c5fc47ab0cdc15e70ae92909ff.png" width="240" alt="Character image" align="right" />
 </div>
 
-<br>
+```console
+[w3bray@void ~]$ ./init --stealth --ring0
+
+  [ OK ]  Unhooking EDR userland hooks .............. done
+  [ OK ]  Patching AMSI in memory ................... done
+  [ OK ]  Loading kernel implant .................... done
+  [ OK ]  Establishing jitter beacon (DNS/HTTPS) .... done
+  [ !! ]  Host telemetry ............................ blind
+
+  >> presence established. no signature. no trace.
+```
 
 <!-- ═══════════════════════ TACTICAL PROFILE ═════════════════════ -->
 
@@ -140,6 +158,14 @@
 </div>
 </details>
 
+<!-- ═══════════════════════════ TROPHIES ═════════════════════════ -->
+
+## 🏆 &nbsp;Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=w3bray&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=911515&text_color=cccccc" alt="Trophies" width="100%" />
+</div>
+
 <!-- ═══════════════════════ TELEMETRY ════════════════════════════ -->
 
 ## 📊 &nbsp;Telemetry &amp; Data
@@ -212,7 +238,7 @@ Session ID      : 05f4d8...  (stealth comms only)
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=911515&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=911515&height=120&section=footer&text=ghost%20in%20the%20machine&fontColor=e0e0e0&fontSize=20&fontAlignY=80" alt="footer" />
   <br>
   <i>/* No burial for deleted files. The ghost in the machine remains. */</i>
 </div>

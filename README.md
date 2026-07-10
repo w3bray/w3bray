@@ -4,17 +4,14 @@
 
   <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" alt="Banner" width="100%" />
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=911515&height=140&section=header&text=w3bray&fontColor=e0e0e0&fontSize=70&fontAlignY=38&desc=parasite%20in%20the%20kernel&descAlignY=62&descColor=911515&animation=fadeIn" alt="w3bray — parasite in the kernel" width="100%" />
+  <img src="https://raw.githubusercontent.com/w3bray/w3bray/main/assets/hero.svg" alt="w3bray — parasite in the kernel" width="100%" />
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=911515&center=true&vCenter=true&width=800&lines=Advanced+Threat+Actor+%7C+Red+Team;Zero-Day+Exploitation+%26+Reverse+Engineering;Parasitic+processes+and+system+decay.;There+is+no+way+out+of+the+sandbox.;We+operate+where+the+EDR+is+blind." alt="Advanced Threat Actor | Red Team" width="100%" />
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=w3bray&label=SIGNALS+INTERCEPTED&color=911515&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/STATUS-QUARANTINED-911515?style=for-the-badge&labelColor=0d0d0d" alt="Status: Quarantined" />
+  <img src="https://img.shields.io/badge/THREAT-CRITICAL-911515?style=for-the-badge&labelColor=0d0d0d" alt="Threat: Critical" />
   <img src="https://img.shields.io/badge/RING-0-911515?style=for-the-badge&labelColor=0d0d0d" alt="Ring 0" />
+  <img src="https://img.shields.io/badge/EDR-BLIND-911515?style=for-the-badge&labelColor=0d0d0d" alt="EDR: Blind" />
 
 </div>
 
@@ -23,10 +20,6 @@
 > *"Some processes are meant to be isolated. Others consume the host. I write the latter."*
 
 <!-- ═══════════════════════════ BOOT ═════════════════════════════ -->
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/2c/5c/e5/2c5ce5c5fc47ab0cdc15e70ae92909ff.png" width="240" alt="Character image" />
-</div>
 
 ```console
 [w3bray@void ~]$ ./init --stealth --ring0
@@ -115,30 +108,12 @@
   <img src="https://img.shields.io/badge/Windows_Internals-000?style=for-the-badge&logo=windows&logoColor=911515" alt="Windows Internals" />
 </div>
 
-<!-- ═══════════════════════════ TROPHIES ═════════════════════════ -->
-
-## 🏆 Trophy Case
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=w3bray&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title_color=911515&text_color=cccccc" alt="GitHub Trophies" width="100%" />
-</div>
-
 <!-- ═══════════════════════ TELEMETRY ════════════════════════════ -->
 
 ## 📊 Telemetry & Data
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=w3bray&show_icons=true&theme=dark&title_color=911515&icon_color=911515&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&hide_border=false" alt="GitHub Stats" width="100%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bray&layout=compact&theme=dark&title_color=911515&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&hide_border=false&card_width=500" alt="Top Languages" width="100%" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=w3bray&theme=dark&ring=911515&fire=911515&background=0d0d0d&border=2a2a2a&dates=cccccc&sideLabels=911515&v=20260502" alt="GitHub streak stats" width="100%" />
-</div>
-
-### 📈 Activity Heatmap
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=w3bray&bg_color=0d0d0d&color=911515&line=911515&point=ffffff&area=true&hide_border=false&border_color=2a2a2a" alt="Activity graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/w3bray/w3bray/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
 
 ### 🐍 The Parasite Feeds
@@ -165,11 +140,17 @@
 
 ## ⚡ Active Implants & Projects
 
-<div align="center">
-  <a href="https://github.com/w3bray/raystorm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=w3bray&repo=raystorm&theme=dark&title_color=911515&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=911515" alt="Raystorm Project" width="100%" />
-  </a>
-</div>
+### ▸ [raystorm](https://github.com/w3bray/raystorm)
+
+<a href="https://github.com/w3bray/raystorm">
+  <img src="https://img.shields.io/github/stars/w3bray/raystorm?style=for-the-badge&logo=github&color=911515&labelColor=0d0d0d" alt="Stars" />
+</a>
+<a href="https://github.com/w3bray/raystorm">
+  <img src="https://img.shields.io/github/languages/top/w3bray/raystorm?style=for-the-badge&color=911515&labelColor=0d0d0d" alt="Top language" />
+</a>
+<a href="https://github.com/w3bray/raystorm/commits">
+  <img src="https://img.shields.io/github/last-commit/w3bray/raystorm?style=for-the-badge&color=911515&labelColor=0d0d0d" alt="Last commit" />
+</a>
 
 ```c
 // snippet_ext.c — injecting payload into a running process...
@@ -189,14 +170,6 @@ int main() {
 }
 // [+] Success: Thread injected.
 ```
-
-<!-- ═══════════════════════════ METRICS ══════════════════════════ -->
-
-## 🖥️ System Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/w3bray/w3bray/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
-</div>
 
 <!-- ═══════════════════════════ SPOTIFY ══════════════════════════ -->
 
@@ -218,7 +191,5 @@ Session ID      : 05f4d8...  (stealth comms only)
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=911515&height=120&section=footer&text=ghost%20in%20the%20machine&fontColor=e0e0e0&fontSize=20&fontAlignY=80" alt="footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/w3bray/w3bray/main/assets/footer.svg" alt="ghost in the machine" width="100%" />
 </div>
-
-<div align="center"><i>/* No burial for deleted files. The ghost in the machine remains. */</i></div>

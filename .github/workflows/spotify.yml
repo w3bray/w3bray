@@ -18,14 +18,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Spotify card
-        uses: Aveek-Saha/Spotify-Now-Playing@v1.0.1
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
-          # These three come from YOUR Spotify account — set them under
-          # Settings -> Secrets and variables -> Actions (see the PR body).
+          node-version: 20
+
+      - name: Generate Spotify card
+        env:
+          # From YOUR Spotify account, stored in
+          # Settings -> Secrets and variables -> Actions
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: node .github/scripts/spotify.mjs
 
       - name: Commit updated card
         run: |

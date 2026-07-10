@@ -20,7 +20,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Generate terminal-style metrics
-        uses: lowlighter/metrics@v3.34.0
+        uses: lowlighter/metrics@v3.34
         with:
           # Committed back into the repo; embedded in the README
           filename: github-metrics.svg

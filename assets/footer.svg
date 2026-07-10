@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" fill="none" role="img" aria-label="ghost in the machine">
+  <rect x="1" y="1" width="898" height="108" rx="12" fill="#0d0d0d" stroke="#2a2a2a"/>
+
+  <!-- pulsing red line -->
+  <rect x="250" y="42" width="400" height="2" fill="#911515">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="'Courier New', Consolas, monospace" text-anchor="middle">
+    <text x="450" y="72" fill="#911515" font-size="16" font-style="italic">/* No burial for deleted files. The ghost in the machine remains. */</text>
+    <text x="450" y="94" fill="#4a4a4a" font-size="12">[ connection terminated ]</text>
+  </g>
+</svg>

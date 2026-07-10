@@ -1,0 +1,35 @@
+name: Generate Metrics
+
+on:
+  # Refresh twice a day
+  schedule:
+    - cron: "0 */12 * * *"
+  # Allow manual triggering from the Actions tab
+  workflow_dispatch:
+  # Regenerate on every push to the default branch
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate terminal-style metrics
+        uses: lowlighter/metrics@v3.34.0
+        with:
+          # Committed back into the repo; embedded in the README
+          filename: github-metrics.svg
+          # Default token works with no extra setup (public data only)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: w3bray
+
+          # Terminal look — matches the profile's black/red hacker aesthetic
+          template: terminal
+          config_timezone: America/Sao_Paulo
+
+          base: header, activity, community, repositories, metadata

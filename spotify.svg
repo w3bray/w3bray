@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="130" viewBox="0 0 480 130" fill="none">
+  <rect x="1" y="1" width="478" height="128" rx="10" fill="#0d0d0d" stroke="#2a2a2a"/>
+  <g transform="translate(24, 30)">
+    <circle cx="18" cy="35" r="18" fill="none" stroke="#911515" stroke-width="2"/>
+    <path d="M8 30 Q18 27 28 32 M9 36 Q18 33 27 38 M11 42 Q18 40 25 44" stroke="#911515" stroke-width="2" stroke-linecap="round" fill="none"/>
+  </g>
+  <g transform="translate(72, 42)" font-family="Consolas, 'Courier New', monospace">
+    <text x="0" y="0" fill="#911515" font-size="12" font-weight="bold">SPOTIFY // OFFLINE</text>
+    <text x="0" y="24" fill="#cccccc" font-size="15" font-weight="bold">Silence on the wire</text>
+    <text x="0" y="44" fill="#777777" font-size="12">awaiting secure comms link…</text>
+  </g>
+  <rect x="72" y="98" width="384" height="4" rx="2" fill="#1a1a1a"/>
+  <rect x="72" y="98" width="120" height="4" rx="2" fill="#911515"/>
+</svg>

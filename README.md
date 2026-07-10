@@ -232,6 +232,22 @@ int main() {
 // [+] Success: Thread injected.
 ```
 
+<!-- ═══════════════════════════ METRICS ══════════════════════════ -->
+
+## 🖥️ &nbsp;System Metrics
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
+</div>
+
+<!-- ═══════════════════════════ SPOTIFY ══════════════════════════ -->
+
+## 🎧 &nbsp;Now Playing
+
+<div align="center">
+  <img src="./spotify.svg" alt="Spotify now playing" width="480" />
+</div>
+
 <!-- ═══════════════════════ SECURE COMMS ═════════════════════════ -->
 
 ## 📡 &nbsp;Secure Comms

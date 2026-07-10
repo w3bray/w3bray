@@ -183,6 +183,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=w3bray&bg_color=0d0d0d&color=911515&line=911515&point=ffffff&area=true&hide_border=false&border_color=2a2a2a" alt="Activity graph" width="100%" />
 </div>
 
+### 🐍 &nbsp;The Parasite Feeds
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/w3bray/w3bray/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+</div>
+
 <!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
 
 ## 🎓 &nbsp;Verified Certifications

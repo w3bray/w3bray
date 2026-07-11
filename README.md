@@ -108,6 +108,26 @@
   <img src="https://img.shields.io/badge/Windows_Internals-000?style=for-the-badge&logo=windows&logoColor=911515" alt="Windows Internals" />
 </div>
 
+<!-- ═══════════════════════════ TCOAAL ═══════════════════════════ -->
+
+## 🪦 Currently Haunting Me — *The Coffin of Andy & Leyley*
+
+<div align="center">
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2378900/library_hero.jpg" alt="The Coffin of Andy and Leyley" width="100%" />
+  <br><br>
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2378900/logo.png" alt="TCOAAL" width="340" />
+</div>
+
+> *"It's not that bad."* — Ashley "Leyley" Graves
+
+Two siblings — **Andrew** and **Ashley Graves** — sealed inside a quarantined apartment block: starving, co-dependent, and cutting a deal with something in the dark. Decay, devotion, and a coffin with room for two. Honestly, it's the exact mood this whole profile already runs on.
+
+<div align="center">
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2378900/header.jpg" alt="Andy and Leyley" width="66%" />
+  <br>
+  <img src="https://img.shields.io/badge/A_deal_has_been_made-911515?style=for-the-badge&labelColor=0d0d0d" alt="A deal has been made" />
+</div>
+
 <!-- ═══════════════════════ TELEMETRY ════════════════════════════ -->
 
 ## 📊 Telemetry & Data

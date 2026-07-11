@@ -35,10 +35,15 @@
 
 <!-- ═══════════════════════════ TCOAAL ═══════════════════════════ -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/w3bray/w3bray/main/assets/tcoaal-01.jpg" alt="TCOAAL" width="46%" />
-  <img src="https://raw.githubusercontent.com/w3bray/w3bray/main/assets/tcoaal-02.jpg" alt="TCOAAL" width="46%" />
-</div>
+## 🩸 Ghosts in the Machine
+
+|  |  |
+| :--: | :-- |
+| <img src="https://raw.githubusercontent.com/w3bray/w3bray/main/assets/tcoaal-01.jpg" width="240" alt="Cornered" /> | <br><b>▚ CORNERED</b><br><br><i>The perimeter woke up. Something is tracing the beacon home — and the red moon won't stop watching. There is no way out of the sandbox. Only deeper in.</i><br><br> |
+
+|  |  |
+| :-- | :--: |
+| <br><b>▚ UNBOTHERED</b><br><br><i>Root on the box. Logs already wiped. Doomscrolling through the wreckage like nothing ever happened. Nobody noticed. It's not that bad.</i><br><br> | <img src="https://raw.githubusercontent.com/w3bray/w3bray/main/assets/tcoaal-02.jpg" width="240" alt="Unbothered" /> |
 
 <!-- ═══════════════════════ TACTICAL PROFILE ═════════════════════ -->
 

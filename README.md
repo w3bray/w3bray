@@ -33,6 +33,13 @@
   >> presence established. no signature. no trace.
 ```
 
+<!-- ═══════════════════════════ TCOAAL ═══════════════════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/w3bray/w3bray/main/assets/tcoaal-01.jpg" alt="TCOAAL" width="46%" />
+  <img src="https://raw.githubusercontent.com/w3bray/w3bray/main/assets/tcoaal-02.jpg" alt="TCOAAL" width="46%" />
+</div>
+
 <!-- ═══════════════════════ TACTICAL PROFILE ═════════════════════ -->
 
 ## 🧬 Tactical Profile
